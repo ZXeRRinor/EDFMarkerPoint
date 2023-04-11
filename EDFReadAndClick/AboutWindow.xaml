@@ -1,4 +1,4 @@
-﻿<Window x:Class="EDFReadAndClick.About"
+﻿<Window x:Class="EDFReadAndClick.AboutWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
@@ -9,6 +9,7 @@
     <Grid>
         <TextBlock HorizontalAlignment="Center" Margin="0,190,0,0" TextWrapping="Wrap" Text="Developed by ZXeRRinor" VerticalAlignment="Top"/>
         <TextBlock HorizontalAlignment="Center" Margin="0,219,0,0" TextWrapping="Wrap" Text="2023" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Center" Margin="0,253,0,0" TextWrapping="Wrap" Text="GitHub: https://github.com/ZXeRRinor/EDFMarkerPoint" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>

@@ -298,6 +298,6 @@ public partial class MainWindow : Window
 
     private void buttonAbout_Click(object sender, RoutedEventArgs e)
     {
-
+        (new AboutWindow()).ShowDialog();
     }
 }

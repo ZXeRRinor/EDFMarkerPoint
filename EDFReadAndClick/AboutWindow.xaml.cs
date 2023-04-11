@@ -12,16 +12,15 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
-namespace EDFReadAndClick
+namespace EDFReadAndClick;
+
+/// <summary>
+/// Логика взаимодействия для AboutWindow.xaml
+/// </summary>
+public partial class AboutWindow : Window
 {
-    /// <summary>
-    /// Логика взаимодействия для About.xaml
-    /// </summary>
-    public partial class About : Window
+    public AboutWindow()
     {
-        public About()
-        {
-            InitializeComponent();
-        }
+        InitializeComponent();
     }
 }
