@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EDFReadAndClick", "EDFReadAndClick\EDFReadAndClick.csproj", "{1BFBB6AB-4354-46AE-A8BC-29D9818D52F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BFBB6AB-4354-46AE-A8BC-29D9818D52F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BFBB6AB-4354-46AE-A8BC-29D9818D52F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BFBB6AB-4354-46AE-A8BC-29D9818D52F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BFBB6AB-4354-46AE-A8BC-29D9818D52F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A6CD0DD-D25B-4D81-BC2F-8311F73DF165}
+	EndGlobalSection
+EndGlobal
